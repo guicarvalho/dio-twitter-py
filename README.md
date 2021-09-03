@@ -15,7 +15,7 @@ Projeto criado durante o living code `Consumindo a API do Twitter com Python`.
 
 ## Instalação 💽
 
-Install [Docker](https://www.docker.com) and [Docker compose](https://docs.docker.com/compose/) in this computer.
+Instale o [Docker](https://www.docker.com) e [Docker compose](https://docs.docker.com/compose/) no seu computador.
 
 ## Rodando a aplicação 🛸
 
